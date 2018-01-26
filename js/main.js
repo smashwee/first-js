@@ -73,5 +73,6 @@ console.log(me.interests[0]);
 
 var string1 = 'Ashley';
 var string2 = 'Cacoilo';
+var string3 = 'Nicole';
 
-alert(string1 + ' ' + string2);
+alert(string1 + ' ' + string3 + ' ' + string2);
